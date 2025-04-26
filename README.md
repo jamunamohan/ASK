@@ -55,8 +55,9 @@ plt.show()
 ~~~~
 # Output Waveform:
 ![WhatsApp Image 2025-04-19 at 15 18 35_b0432fb2](https://github.com/user-attachments/assets/1cb303f1-38b4-4b1d-8de3-8274471ad315)
+# Hardware experiment output waveform:
+![WhatsApp Image 2025-04-26 at 20 57 31_acc77cca](https://github.com/user-attachments/assets/9e7bf824-679a-446f-a01f-27c5482ff917)
 # Results:
 The binary data was successfully modulated using Amplitude Shift Keying (ASK).
 The ASK waveform was observed, where carrier presence represents '1' and absence represents '0'.
 The experiment successfully demonstrated digital-to-analog conversion using ASK.
-# Hardware experiment output waveform.
